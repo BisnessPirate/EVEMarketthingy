@@ -1,6 +1,6 @@
 ,key
 first_time,FALSE
-redirect_uri,None
-client_id,None
+redirect_uri,http://127.0.0.1:12500
+client_id,20b4545b424e444a93a52a521034fd93
 secret_key,None
 refresh_token,None
